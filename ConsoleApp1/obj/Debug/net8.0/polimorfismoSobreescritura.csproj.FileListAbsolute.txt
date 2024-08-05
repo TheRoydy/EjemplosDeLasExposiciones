@@ -1,0 +1,14 @@
+C:\Users\SENA\source\repos\ejemplosDeLasExposiciones\ConsoleApp1\bin\Debug\net8.0\polimorfismoSobreescritura.exe
+C:\Users\SENA\source\repos\ejemplosDeLasExposiciones\ConsoleApp1\bin\Debug\net8.0\polimorfismoSobreescritura.deps.json
+C:\Users\SENA\source\repos\ejemplosDeLasExposiciones\ConsoleApp1\bin\Debug\net8.0\polimorfismoSobreescritura.runtimeconfig.json
+C:\Users\SENA\source\repos\ejemplosDeLasExposiciones\ConsoleApp1\bin\Debug\net8.0\polimorfismoSobreescritura.dll
+C:\Users\SENA\source\repos\ejemplosDeLasExposiciones\ConsoleApp1\bin\Debug\net8.0\polimorfismoSobreescritura.pdb
+C:\Users\SENA\source\repos\ejemplosDeLasExposiciones\ConsoleApp1\obj\Debug\net8.0\polimorfismoSobreescritura.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SENA\source\repos\ejemplosDeLasExposiciones\ConsoleApp1\obj\Debug\net8.0\polimorfismoSobreescritura.AssemblyInfoInputs.cache
+C:\Users\SENA\source\repos\ejemplosDeLasExposiciones\ConsoleApp1\obj\Debug\net8.0\polimorfismoSobreescritura.AssemblyInfo.cs
+C:\Users\SENA\source\repos\ejemplosDeLasExposiciones\ConsoleApp1\obj\Debug\net8.0\polimorfismoSobreescritura.csproj.CoreCompileInputs.cache
+C:\Users\SENA\source\repos\ejemplosDeLasExposiciones\ConsoleApp1\obj\Debug\net8.0\polimorfismoSobreescritura.dll
+C:\Users\SENA\source\repos\ejemplosDeLasExposiciones\ConsoleApp1\obj\Debug\net8.0\refint\polimorfismoSobreescritura.dll
+C:\Users\SENA\source\repos\ejemplosDeLasExposiciones\ConsoleApp1\obj\Debug\net8.0\polimorfismoSobreescritura.pdb
+C:\Users\SENA\source\repos\ejemplosDeLasExposiciones\ConsoleApp1\obj\Debug\net8.0\polimorfismoSobreescritura.genruntimeconfig.cache
+C:\Users\SENA\source\repos\ejemplosDeLasExposiciones\ConsoleApp1\obj\Debug\net8.0\ref\polimorfismoSobreescritura.dll
