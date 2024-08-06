@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\SENA\\Documents\\EjemplosDeLasExposionesCorredor\\metodosFuncionesConSinParametros\\metodosFuncionesConSinParametros.csproj": {}
+    "D:\\EjemplosDeLasExposiciones\\metodosFuncionesConSinParametros\\metodosFuncionesConSinParametros.csproj": {}
   },
   "projects": {
-    "C:\\Users\\SENA\\Documents\\EjemplosDeLasExposionesCorredor\\metodosFuncionesConSinParametros\\metodosFuncionesConSinParametros.csproj": {
+    "D:\\EjemplosDeLasExposiciones\\metodosFuncionesConSinParametros\\metodosFuncionesConSinParametros.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\SENA\\Documents\\EjemplosDeLasExposionesCorredor\\metodosFuncionesConSinParametros\\metodosFuncionesConSinParametros.csproj",
+        "projectUniqueName": "D:\\EjemplosDeLasExposiciones\\metodosFuncionesConSinParametros\\metodosFuncionesConSinParametros.csproj",
         "projectName": "metodosFuncionesConSinParametros",
-        "projectPath": "C:\\Users\\SENA\\Documents\\EjemplosDeLasExposionesCorredor\\metodosFuncionesConSinParametros\\metodosFuncionesConSinParametros.csproj",
+        "projectPath": "D:\\EjemplosDeLasExposiciones\\metodosFuncionesConSinParametros\\metodosFuncionesConSinParametros.csproj",
         "packagesPath": "C:\\Users\\SENA\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\SENA\\Documents\\EjemplosDeLasExposionesCorredor\\metodosFuncionesConSinParametros\\obj\\",
+        "outputPath": "D:\\EjemplosDeLasExposiciones\\metodosFuncionesConSinParametros\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\SENA\\AppData\\Roaming\\NuGet\\NuGet.Config",

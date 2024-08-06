@@ -1,0 +1,15 @@
+D:\EjemplosDeLasExposiciones\asyncYAwait\bin\Debug\asyncYAwait.exe.config
+D:\EjemplosDeLasExposiciones\asyncYAwait\bin\Debug\asyncYAwait.exe
+D:\EjemplosDeLasExposiciones\asyncYAwait\bin\Debug\asyncYAwait.pdb
+D:\EjemplosDeLasExposiciones\asyncYAwait\obj\Debug\asyncYAwait.csproj.AssemblyReference.cache
+D:\EjemplosDeLasExposiciones\asyncYAwait\obj\Debug\MainWindow.g.cs
+D:\EjemplosDeLasExposiciones\asyncYAwait\obj\Debug\App.g.cs
+D:\EjemplosDeLasExposiciones\asyncYAwait\obj\Debug\asyncYAwait_MarkupCompile.cache
+D:\EjemplosDeLasExposiciones\asyncYAwait\obj\Debug\asyncYAwait_MarkupCompile.lref
+D:\EjemplosDeLasExposiciones\asyncYAwait\obj\Debug\MainWindow.baml
+D:\EjemplosDeLasExposiciones\asyncYAwait\obj\Debug\asyncYAwait.g.resources
+D:\EjemplosDeLasExposiciones\asyncYAwait\obj\Debug\asyncYAwait.Properties.Resources.resources
+D:\EjemplosDeLasExposiciones\asyncYAwait\obj\Debug\asyncYAwait.csproj.GenerateResource.cache
+D:\EjemplosDeLasExposiciones\asyncYAwait\obj\Debug\asyncYAwait.csproj.CoreCompileInputs.cache
+D:\EjemplosDeLasExposiciones\asyncYAwait\obj\Debug\asyncYAwait.exe
+D:\EjemplosDeLasExposiciones\asyncYAwait\obj\Debug\asyncYAwait.pdb
