@@ -1,0 +1,15 @@
+D:\EjemplosDeLasExposiciones\abstraccion\bin\Debug\net8.0\abstraccion.exe
+D:\EjemplosDeLasExposiciones\abstraccion\bin\Debug\net8.0\abstraccion.deps.json
+D:\EjemplosDeLasExposiciones\abstraccion\bin\Debug\net8.0\abstraccion.runtimeconfig.json
+D:\EjemplosDeLasExposiciones\abstraccion\bin\Debug\net8.0\abstraccion.dll
+D:\EjemplosDeLasExposiciones\abstraccion\bin\Debug\net8.0\abstraccion.pdb
+D:\EjemplosDeLasExposiciones\abstraccion\obj\Debug\net8.0\abstraccion.GeneratedMSBuildEditorConfig.editorconfig
+D:\EjemplosDeLasExposiciones\abstraccion\obj\Debug\net8.0\abstraccion.AssemblyInfoInputs.cache
+D:\EjemplosDeLasExposiciones\abstraccion\obj\Debug\net8.0\abstraccion.AssemblyInfo.cs
+D:\EjemplosDeLasExposiciones\abstraccion\obj\Debug\net8.0\abstraccion.csproj.CoreCompileInputs.cache
+D:\EjemplosDeLasExposiciones\abstraccion\obj\Debug\net8.0\abstraccion.sourcelink.json
+D:\EjemplosDeLasExposiciones\abstraccion\obj\Debug\net8.0\abstraccion.dll
+D:\EjemplosDeLasExposiciones\abstraccion\obj\Debug\net8.0\refint\abstraccion.dll
+D:\EjemplosDeLasExposiciones\abstraccion\obj\Debug\net8.0\abstraccion.pdb
+D:\EjemplosDeLasExposiciones\abstraccion\obj\Debug\net8.0\abstraccion.genruntimeconfig.cache
+D:\EjemplosDeLasExposiciones\abstraccion\obj\Debug\net8.0\ref\abstraccion.dll

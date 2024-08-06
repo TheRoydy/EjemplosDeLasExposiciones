@@ -1,12 +1,68 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "D:\\EjemplosDeLasExposiciones\\metodosFuncionesConSinParametros\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4241FA19-1CA4-483E-AA69-781F04C745E3}|..\\clases\\clases.csproj|d:\\ejemplosdelasexposiciones\\clases\\iauto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4241FA19-1CA4-483E-AA69-781F04C745E3}|..\\clases\\clases.csproj|d:\\ejemplosdelasexposiciones\\clases\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63AA7420-6BA1-4447-B151-25686CDFE0A4}|..\\abstraccion\\abstraccion.csproj|d:\\ejemplosdelasexposiciones\\abstraccion\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "IAuto.cs",
+              "DocumentMoniker": "D:\\EjemplosDeLasExposiciones\\clases\\IAuto.cs",
+              "RelativeDocumentMoniker": "..\\clases\\IAuto.cs",
+              "ToolTip": "D:\\EjemplosDeLasExposiciones\\clases\\IAuto.cs",
+              "RelativeToolTip": "..\\clases\\IAuto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-06T21:37:52.068Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\EjemplosDeLasExposiciones\\clases\\Program.cs",
+              "RelativeDocumentMoniker": "..\\clases\\Program.cs",
+              "ToolTip": "D:\\EjemplosDeLasExposiciones\\clases\\Program.cs",
+              "RelativeToolTip": "..\\clases\\Program.cs",
+              "ViewState": "AQIAABEAAAAAAAAAAAAuwA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-06T21:37:50.079Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\EjemplosDeLasExposiciones\\abstraccion\\Program.cs",
+              "RelativeDocumentMoniker": "..\\abstraccion\\Program.cs",
+              "ToolTip": "D:\\EjemplosDeLasExposiciones\\abstraccion\\Program.cs",
+              "RelativeToolTip": "..\\abstraccion\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-06T21:37:30.817Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
     }
   ]
 }

@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("metodosFuncionesConSinParametros")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+127c5cc2392aa90debabdf36e9148a78c104d07d")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7246859b1748a0241227830178e9da23491c8b06")]
 [assembly: System.Reflection.AssemblyProductAttribute("metodosFuncionesConSinParametros")]
 [assembly: System.Reflection.AssemblyTitleAttribute("metodosFuncionesConSinParametros")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

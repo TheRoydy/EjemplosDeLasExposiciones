@@ -3,9 +3,21 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.10.35004.147
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "metodosFuncionesConSinParametros", "metodosFuncionesConSinParametros.csproj", "{9E596634-F38C-46CE-AD1C-0E2E3C67EFEB}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "metodosFuncionesConSinParametros", "metodosFuncionesConSinParametros.csproj", "{9E596634-F38C-46CE-AD1C-0E2E3C67EFEB}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "asyncYAwait", "..\asyncYAwait\asyncYAwait.csproj", "{60DA4B53-6869-44E3-AF91-A8FC988AC5D7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "clases", "..\clases\clases.csproj", "{4241FA19-1CA4-483E-AA69-781F04C745E3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "polimorfismoSobrecarga", "..\polimorfismoSobrecarga\polimorfismoSobrecarga.csproj", "{A695C528-D664-4A4B-B9B3-3C90B20688E9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "polimorfismoSobreEscritura", "..\polimorfismoSobreEscritura\polimorfismoSobreEscritura.csproj", "{34A3CC72-2EC8-45E8-8724-BCD4E191898E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "herencia", "..\herencia\herencia.csproj", "{32B3D52D-A5ED-4CEC-A607-975F3AE914DF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "abstraccion", "..\abstraccion\abstraccion.csproj", "{63AA7420-6BA1-4447-B151-25686CDFE0A4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "encapsulamiento", "..\encapsulamiento\encapsulamiento.csproj", "{803A6D50-7769-43B7-B998-9DB709626974}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +33,30 @@ Global
 		{60DA4B53-6869-44E3-AF91-A8FC988AC5D7}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{60DA4B53-6869-44E3-AF91-A8FC988AC5D7}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{60DA4B53-6869-44E3-AF91-A8FC988AC5D7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4241FA19-1CA4-483E-AA69-781F04C745E3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4241FA19-1CA4-483E-AA69-781F04C745E3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4241FA19-1CA4-483E-AA69-781F04C745E3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4241FA19-1CA4-483E-AA69-781F04C745E3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A695C528-D664-4A4B-B9B3-3C90B20688E9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A695C528-D664-4A4B-B9B3-3C90B20688E9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A695C528-D664-4A4B-B9B3-3C90B20688E9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A695C528-D664-4A4B-B9B3-3C90B20688E9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{34A3CC72-2EC8-45E8-8724-BCD4E191898E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{34A3CC72-2EC8-45E8-8724-BCD4E191898E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{34A3CC72-2EC8-45E8-8724-BCD4E191898E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{34A3CC72-2EC8-45E8-8724-BCD4E191898E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{32B3D52D-A5ED-4CEC-A607-975F3AE914DF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{32B3D52D-A5ED-4CEC-A607-975F3AE914DF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{32B3D52D-A5ED-4CEC-A607-975F3AE914DF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{32B3D52D-A5ED-4CEC-A607-975F3AE914DF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{63AA7420-6BA1-4447-B151-25686CDFE0A4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{63AA7420-6BA1-4447-B151-25686CDFE0A4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{63AA7420-6BA1-4447-B151-25686CDFE0A4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{63AA7420-6BA1-4447-B151-25686CDFE0A4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{803A6D50-7769-43B7-B998-9DB709626974}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{803A6D50-7769-43B7-B998-9DB709626974}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{803A6D50-7769-43B7-B998-9DB709626974}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{803A6D50-7769-43B7-B998-9DB709626974}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

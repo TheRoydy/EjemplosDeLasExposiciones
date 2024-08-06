@@ -1,0 +1,15 @@
+D:\EjemplosDeLasExposiciones\herencia\bin\Debug\net8.0\herencia.exe
+D:\EjemplosDeLasExposiciones\herencia\bin\Debug\net8.0\herencia.deps.json
+D:\EjemplosDeLasExposiciones\herencia\bin\Debug\net8.0\herencia.runtimeconfig.json
+D:\EjemplosDeLasExposiciones\herencia\bin\Debug\net8.0\herencia.dll
+D:\EjemplosDeLasExposiciones\herencia\bin\Debug\net8.0\herencia.pdb
+D:\EjemplosDeLasExposiciones\herencia\obj\Debug\net8.0\herencia.GeneratedMSBuildEditorConfig.editorconfig
+D:\EjemplosDeLasExposiciones\herencia\obj\Debug\net8.0\herencia.AssemblyInfoInputs.cache
+D:\EjemplosDeLasExposiciones\herencia\obj\Debug\net8.0\herencia.AssemblyInfo.cs
+D:\EjemplosDeLasExposiciones\herencia\obj\Debug\net8.0\herencia.csproj.CoreCompileInputs.cache
+D:\EjemplosDeLasExposiciones\herencia\obj\Debug\net8.0\herencia.sourcelink.json
+D:\EjemplosDeLasExposiciones\herencia\obj\Debug\net8.0\herencia.dll
+D:\EjemplosDeLasExposiciones\herencia\obj\Debug\net8.0\refint\herencia.dll
+D:\EjemplosDeLasExposiciones\herencia\obj\Debug\net8.0\herencia.pdb
+D:\EjemplosDeLasExposiciones\herencia\obj\Debug\net8.0\herencia.genruntimeconfig.cache
+D:\EjemplosDeLasExposiciones\herencia\obj\Debug\net8.0\ref\herencia.dll

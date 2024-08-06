@@ -1,0 +1,15 @@
+D:\EjemplosDeLasExposiciones\polimorfismoSobrecarga\bin\Debug\net8.0\polimorfismoSobrecarga.exe
+D:\EjemplosDeLasExposiciones\polimorfismoSobrecarga\bin\Debug\net8.0\polimorfismoSobrecarga.deps.json
+D:\EjemplosDeLasExposiciones\polimorfismoSobrecarga\bin\Debug\net8.0\polimorfismoSobrecarga.runtimeconfig.json
+D:\EjemplosDeLasExposiciones\polimorfismoSobrecarga\bin\Debug\net8.0\polimorfismoSobrecarga.dll
+D:\EjemplosDeLasExposiciones\polimorfismoSobrecarga\bin\Debug\net8.0\polimorfismoSobrecarga.pdb
+D:\EjemplosDeLasExposiciones\polimorfismoSobrecarga\obj\Debug\net8.0\polimorfismoSobrecarga.GeneratedMSBuildEditorConfig.editorconfig
+D:\EjemplosDeLasExposiciones\polimorfismoSobrecarga\obj\Debug\net8.0\polimorfismoSobrecarga.AssemblyInfoInputs.cache
+D:\EjemplosDeLasExposiciones\polimorfismoSobrecarga\obj\Debug\net8.0\polimorfismoSobrecarga.AssemblyInfo.cs
+D:\EjemplosDeLasExposiciones\polimorfismoSobrecarga\obj\Debug\net8.0\polimorfismoSobrecarga.csproj.CoreCompileInputs.cache
+D:\EjemplosDeLasExposiciones\polimorfismoSobrecarga\obj\Debug\net8.0\polimorfismoSobrecarga.sourcelink.json
+D:\EjemplosDeLasExposiciones\polimorfismoSobrecarga\obj\Debug\net8.0\polimorfismoSobrecarga.dll
+D:\EjemplosDeLasExposiciones\polimorfismoSobrecarga\obj\Debug\net8.0\refint\polimorfismoSobrecarga.dll
+D:\EjemplosDeLasExposiciones\polimorfismoSobrecarga\obj\Debug\net8.0\polimorfismoSobrecarga.pdb
+D:\EjemplosDeLasExposiciones\polimorfismoSobrecarga\obj\Debug\net8.0\polimorfismoSobrecarga.genruntimeconfig.cache
+D:\EjemplosDeLasExposiciones\polimorfismoSobrecarga\obj\Debug\net8.0\ref\polimorfismoSobrecarga.dll
